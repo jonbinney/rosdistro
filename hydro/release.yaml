@@ -268,6 +268,12 @@ repositories:
       release: release/hydro/{package}/{version}
     url: https://github.com/ros-gbp/filters-release.git
     version: 1.7.0-0
+  filters:
+    status: maintained
+    tags:
+      release: release/hydro/{package}/{version}
+    url: https://github.com/ros-gbp/laser_filters-release.git
+    version: 1.6.6-0
   flann:
     tags:
       release: release/hydro/{package}/{version}
